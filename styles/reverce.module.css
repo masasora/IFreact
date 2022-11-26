@@ -1,0 +1,22 @@
+/* .reverce{
+} */
+
+/* ======================================= */
+/* （始）aタグの部分 */
+/* ======================================= */
+.min{
+  font-size:20px;
+        height:70px;
+    width: 150px;
+        color:white;
+    background-color: green;
+      display: flex;
+    justify-content: center; 
+  align-items: center;
+    border-radius: 10px;
+    border:solid 1px white;
+    font-weight: bold;
+}
+/* ======================================= */
+/* （終）aタグの部分 */
+/* ======================================= */

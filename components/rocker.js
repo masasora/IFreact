@@ -121,7 +121,7 @@ switch (array[roll].rank){
   return (
     <div>
       <div className={styles.total}>
-        <p>計{time}時間</p> 
+        <p>結果</p> 
         <p>取得資格数：{jcount}個</p> 
         <p>RANK</p>
         <div>
